@@ -1,0 +1,32 @@
+body {
+    background-color: #e0f7fa;
+    color: #000000;
+    font-family: "Times New Roman", Times, serif;
+    margin: 15px;
+    padding: 10px;
+}
+
+h1 {
+    color: #0000cd;
+    text-align: center;
+}
+
+h2 {
+    background-color: #d69e26;
+    color: #8b0000;
+    padding: 4px;
+    border: 2px dashed #000000;
+}
+
+h3 {
+    color: #006400;
+    text-decoration: underline;
+}
+
+ul {
+    list-style-type: square;
+}
+
+hr {
+    border: 2px solid #333333;
+}
